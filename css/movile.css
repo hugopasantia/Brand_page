@@ -1,0 +1,32 @@
+@media (max-width: 600px){
+    .main_content{
+        padding: 5%;
+    }
+    .products{
+        display: inherit;
+        border-radius: 30% 30% 0px 0px;
+        margin-top: 20%;
+        padding-bottom: 0%;
+    }
+    .products .product{
+        padding-top: 0%;
+        margin-bottom: 100px;
+    }
+
+    .benefits{
+        display: inherit;
+        padding: 0%;
+    }
+
+    .mentions{
+        display: inherit;
+    }
+
+    .mentions .mentions-content{
+        display: inherit
+    }
+    
+    .mentions .mentions-content .mention .mention-image img{
+        width: 100%;
+    }
+}
